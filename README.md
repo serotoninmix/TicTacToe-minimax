@@ -12,7 +12,7 @@ This project implements a Tic Tac Toe game with an AI opponent using the Minimax
 - [Features](#features)
 - [License](#license)
 
-**Looking for more projects like these? Follow me on [LinkedIn]([url](https://www.linkedin.com/in/mariasgrebelo/)) and check out my projects and articles on [WillowLink Magazine](willowlink.com/blog)
+**Looking for more projects like these? Follow me on [LinkedIn](https://www.linkedin.com/in/mariasgrebelo/) and check out my projects and articles on [WillowLink Magazine](willowlink.com/blog)**
 
 ## Installation
 
