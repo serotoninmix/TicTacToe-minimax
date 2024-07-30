@@ -1,4 +1,5 @@
 <img width="595" alt="Screenshot 2024-07-30 at 16 12 34" src="https://github.com/user-attachments/assets/48bd88e7-16d6-467f-9276-199493ae603b">
+
 # Tic Tac Toe with AI
 
 This project implements a Tic Tac Toe game with an AI opponent using the Minimax algorithm. The game is developed using Python and the Pygame library for the graphical user interface.
@@ -10,6 +11,8 @@ This project implements a Tic Tac Toe game with an AI opponent using the Minimax
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [License](#license)
+
+**Looking for more projects like these? Follow me on [LinkedIn]([url](https://www.linkedin.com/in/mariasgrebelo/)) and check out my projects and articles on [WillowLink Magazine](willowlink.com/blog)
 
 ## Installation
 
